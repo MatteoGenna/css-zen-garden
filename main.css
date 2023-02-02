@@ -1,0 +1,22 @@
+
+header{
+    background:
+            linear-gradient(lightgreen, darkgreen);
+    border: 2px solid  black;
+    border-radius: 20%;
+    margin: 20px;
+    width: 300px;
+    height: 180px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+body{
+    background-image: url("images/Skylane.png");
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
